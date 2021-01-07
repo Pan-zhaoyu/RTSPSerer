@@ -1,0 +1,2 @@
+sudo gcc h264_rtsp_server.c rtp.c
+sudo ./a.out
